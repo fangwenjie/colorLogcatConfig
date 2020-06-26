@@ -1,0 +1,31 @@
+<scheme name="ClarkLogCat" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2020-06-22T10:35:34</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">4.0.0.16</property>
+    <property name="modified">2020-06-22T10:35:41</property>
+    <property name="originalScheme">ClarkLogCat</property>
+  </metaInfo>
+  <attributes>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff0309" />
+      </value>
+    </option>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="40bb3e" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5574bb" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffe309" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

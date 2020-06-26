@@ -1,2 +1,2 @@
 # colorLogcatConfig
-color logcat config for Intellij IDEA color scheme
+color logcat config for Intellij IDEA color scheme(Android Studio)
